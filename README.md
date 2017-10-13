@@ -15,6 +15,10 @@ This is a website that shows my progress as a software developer and all the oth
 
 For the best viewing experience please use a laptop or desktop and if possible using the chrome browser for the best experience possible.
 
+## Here is the link to the live site on GitHub pages
+
+  https://africanbushman.github.io/Portfolio/
+
 ## Known Bugs
 
 They are no known Bugs at this time but is you find any please feel free to contact us.

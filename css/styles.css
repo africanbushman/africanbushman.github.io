@@ -28,15 +28,15 @@ header ul li a {
 }
 h1{
   text-transform: uppercase;
-  text-align: center;
+  text-align: justify;
   font-style: italic;
   font-size: 40px;
   color: #b1a688;
 }
 h2{
-  text-align: center;
+  text-align: justify;
   text-transform: capitalize;
-  font-style: italic;
+  font-style: oblique;
   font-size: 40px;
   color: #b1a688;
 }
