@@ -33,6 +33,6 @@ If you need to contact us, The contact information can be found on the website.
 
 ### License
 
-* This program is under the MIT license *
+* This website is under the MIT license *
 
 Copyright (c) 2017 **Hive corporation**
