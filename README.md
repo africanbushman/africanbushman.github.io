@@ -12,6 +12,8 @@ This is a website that shows my progress as a software developer and all the oth
 
 * A computer.
 * Internet access.
+* A web browser to view the live github pages site.
+* Install Git on you computer if you want to clone it and have a working understanding of Git and Github, To make your clone process an easy and pleasant one.
 
 For the best viewing experience please use a laptop or desktop and if possible using the chrome browser for the best experience possible.
 
@@ -19,13 +21,9 @@ For the best viewing experience please use a laptop or desktop and if possible u
 
   https://africanbushman.github.io/
 
-## Known Bugs
-
-They are no known Bugs at this time but is you find any please feel free to contact us.
-
 ## Technologies Used
 
-The technologies used are as follows HTML, CSS and a bit of bootstrap.
+The technologies used are as follows HTML, CSS, bootstrap and JavaScript.
 
 ## Support and contact details
 
