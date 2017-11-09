@@ -46,8 +46,17 @@ body{
   font-style: italic;
   font-size: 20px;
   color: #b1a688;
-  background-image: url(../background.jpg);
+  background-image: url(../images/background.jpg);
 }
+/*#image {
+  background-image: url(../images/thyself-2.webp);
+  background-attachment: fixed;
+  background-repeat:no-repeat;
+  background-position: center center;
+  background: cover;
+  padding: 0;
+  margin: 0;
+}*/
 p{
   font-style: italic;
   font-size: 20px;
